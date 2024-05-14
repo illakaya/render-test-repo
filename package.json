@@ -1,7 +1,7 @@
 {
-  "name": "25-ins-render",
+  "name": "26-stu-render",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1"
